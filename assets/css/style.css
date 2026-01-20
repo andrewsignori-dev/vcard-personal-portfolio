@@ -1871,7 +1871,10 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .social-list { justify-content: center; }
 
-
+.about-text strong {
+  font-weight: var(--fw-600);
+  color: var(--white-2);
+}
 
   /**
 	 * RESUME
